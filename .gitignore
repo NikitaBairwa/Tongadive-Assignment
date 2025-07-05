@@ -1,0 +1,79 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+buildSrc/build/
+out/
+
+# Eclipse
+.project
+.classpath
+.c9/
+.settings/
+.springBeans
+.metadata/
+bin/
+tmp/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+gen/
+logs/
+*.log
+.DS_Store
+
+# VS Code
+.vscode/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+*.swp
+*.swo
+
+# Test reports
+test-output/
+surefire-reports/
+*.ser
+
+# Selenium screenshots or test evidence
+screenshots/
+reports/
+*.png
+
+# Local environment files
+.env
+*.local
+*.secret

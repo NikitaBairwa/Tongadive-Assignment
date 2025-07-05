@@ -1,0 +1,14 @@
+
+
+<suite name="WebApp Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+    <test name="Profile Tests">
+        <classes>
+            <class name="tests.ProfileTest"/>
+        </classes>
+    </test>
+</suite>
